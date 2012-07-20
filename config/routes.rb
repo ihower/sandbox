@@ -1,4 +1,7 @@
 Sandbox::Application.routes.draw do
+  
+  resources :fourms
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
