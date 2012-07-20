@@ -1,2 +1,7 @@
 A Rails project for git demo
 =====
+
+Features
+====
+
+* yet another forum 
